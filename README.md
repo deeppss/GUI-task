@@ -4,4 +4,7 @@
 
 Here are the followin dependencies:
 
-```python PyGUI.py```
+python
+```
+python PyGUI.py
+```
